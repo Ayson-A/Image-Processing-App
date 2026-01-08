@@ -1,4 +1,4 @@
-Image Processing App - Final Project
+Image Processing App
 
 How to Run the App
 1. Navigate to the project folder.
@@ -20,4 +20,5 @@ The Image Processing App was made for the Fall 2025 ENGR 020 MATLAB Programming 
 image and apply two filters: unsharp masking and Prewitt edge detection. The interface was built in MATLAB App Designer and 
 includes checkboxes to turn filters on or off and sliders that adjust kernel size, sharpening strength, and edge threshold. 
 Overall, the app demonstrates core image-processing concepts such as convolution, thresholding, and filter-based enhancement 
+
 while providing a clear visual comparison between the original and processed images.
